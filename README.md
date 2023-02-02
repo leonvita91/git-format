@@ -11,7 +11,7 @@ normal text
 
 # command:
 ```
-* git add .
+git add .
 git commit -m "test"
 git push
 ```
